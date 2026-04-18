@@ -1,8 +1,6 @@
 'use client';
 
 import { useState, useEffect, useMemo, useCallback } from 'react';
-import { collection, addDoc, getDocs, deleteDoc, doc, query, where } from 'firebase/firestore';
-import { getFirebaseDb } from '@/lib/firebase';
 import { useAuth } from '@/contexts/AuthContext';
 import { AnalyzedPlaylist, VideoItem } from '@/lib/types';
 import PlaylistInput from '@/components/PlaylistInput';
@@ -22,7 +20,7 @@ export default function Home() {
   const [saving, setSaving] = useState(false);
   const [progress, setProgress] = useState<string>('');
 
-  // Load saved playlists
+  // Load saved playlists from SQLite API
   useEffect(() => {
     if (!user) {
       setSavedPlaylists([]);
@@ -30,17 +28,15 @@ export default function Home() {
     }
     const loadSaved = async () => {
       try {
-        const db = getFirebaseDb();
-        if (!db) return;
-        const q = query(collection(db, 'playlists'), where('userId', '==', user.uid));
-        const snapshot = await getDocs(q);
-        const playlists = snapshot.docs.map(doc => ({
-          id: doc.id,
-          ...doc.data(),
-        })) as AnalyzedPlaylist[];
-        setSavedPlaylists(playlists.sort((a, b) => 
-          new Date(b.analyzedAt).getTime() - new Date(a.analyzedAt).getTime()
-        ));
+        const res = await fetch('/api/playlists');
+        if (!res.ok) return;
+        const playlists: AnalyzedPlaylist[] = await res.json();
+        setSavedPlaylists(
+          playlists.sort(
+            (a, b) =>
+              new Date(b.analyzedAt).getTime() - new Date(a.analyzedAt).getTime()
+          )
+        );
       } catch (err) {
         console.error('Error loading saved playlists:', err);
       }
@@ -84,14 +80,15 @@ export default function Home() {
     if (!user || !currentPlaylist) return;
     setSaving(true);
     try {
-      const db = getFirebaseDb();
-      if (!db) return;
-      const docRef = await addDoc(collection(db, 'playlists'), {
-        ...currentPlaylist,
-        userId: user.uid,
+      const res = await fetch('/api/playlists', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ...currentPlaylist, userId: user.uid }),
       });
-      const saved = { ...currentPlaylist, id: docRef.id, userId: user.uid };
-      setSavedPlaylists(prev => [saved, ...prev]);
+      if (!res.ok) throw new Error('Save failed');
+      const saved: AnalyzedPlaylist = await res.json();
+      setCurrentPlaylist(saved);
+      setSavedPlaylists(prev => [saved, ...prev.filter(p => p.id !== saved.id)]);
     } catch (err) {
       console.error('Error saving playlist:', err);
       setError('Failed to save playlist');
@@ -102,12 +99,11 @@ export default function Home() {
 
   const handleDelete = async (playlistId: string) => {
     try {
-      const db = getFirebaseDb();
-      if (!db) return;
-      await deleteDoc(doc(db, 'playlists', playlistId));
+      const res = await fetch(`/api/playlists/${playlistId}`, { method: 'DELETE' });
+      if (!res.ok) throw new Error('Delete failed');
       setSavedPlaylists(prev => prev.filter(p => p.id !== playlistId));
       if (currentPlaylist?.id === playlistId) {
-        setCurrentPlaylist(prev => prev ? { ...prev, id: undefined } : null);
+        setCurrentPlaylist(prev => (prev ? { ...prev, id: undefined } : null));
       }
     } catch (err) {
       console.error('Error deleting playlist:', err);
@@ -243,7 +239,7 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-white/10 py-6 text-center text-gray-500 text-sm">
-        YouTube Playlist Analyzer · Built with Next.js, Firebase & Gemini AI
+        YouTube Playlist Analyzer · Built with Next.js, SQLite &amp; Gemini AI
       </footer>
     </div>
   );
