@@ -1,13 +1,19 @@
 'use client';
 
 import { createContext, useContext, useEffect, useState, ReactNode } from 'react';
-import { User, onAuthStateChanged, signInWithPopup, signOut } from 'firebase/auth';
-import { getFirebaseAuth, googleProvider, isFirebaseConfigured } from '@/lib/firebase';
+import { useSession, signIn, signOut } from 'next-auth/react';
+
+interface AuthUser {
+  uid: string;
+  email: string | null;
+  displayName: string | null;
+  photoURL: string | null;
+}
 
 interface AuthContextType {
-  user: User | null;
+  user: AuthUser | null;
   loading: boolean;
-  firebaseReady: boolean;
+  firebaseReady: boolean; // kept for component API compatibility
   signInWithGoogle: () => Promise<void>;
   logout: () => Promise<void>;
 }
@@ -15,55 +21,41 @@ interface AuthContextType {
 const AuthContext = createContext<AuthContextType>({
   user: null,
   loading: true,
-  firebaseReady: false,
+  firebaseReady: true,
   signInWithGoogle: async () => {},
   logout: async () => {},
 });
 
 export function AuthProvider({ children }: { children: ReactNode }) {
-  const [user, setUser] = useState<User | null>(null);
-  const [loading, setLoading] = useState(true);
-  const firebaseReady = isFirebaseConfigured();
+  const { data: session, status } = useSession();
+  const [user, setUser] = useState<AuthUser | null>(null);
+
+  const loading = status === 'loading';
 
   useEffect(() => {
-    if (!firebaseReady) {
-      setLoading(false);
-      return;
+    if (session?.user) {
+      const u = session.user as any;
+      setUser({
+        uid: u.id || u.email || '',
+        email: u.email ?? null,
+        displayName: u.name ?? null,
+        photoURL: u.image ?? null,
+      });
+    } else {
+      setUser(null);
     }
-    const auth = getFirebaseAuth();
-    if (!auth) {
-      setLoading(false);
-      return;
-    }
-    const unsubscribe = onAuthStateChanged(auth, (user) => {
-      setUser(user);
-      setLoading(false);
-    });
-    return () => unsubscribe();
-  }, [firebaseReady]);
+  }, [session]);
 
   const signInWithGoogle = async () => {
-    const auth = getFirebaseAuth();
-    if (!auth) return;
-    try {
-      await signInWithPopup(auth, googleProvider);
-    } catch (error) {
-      console.error('Error signing in with Google:', error);
-    }
+    await signIn('google');
   };
 
   const logout = async () => {
-    const auth = getFirebaseAuth();
-    if (!auth) return;
-    try {
-      await signOut(auth);
-    } catch (error) {
-      console.error('Error signing out:', error);
-    }
+    await signOut();
   };
 
   return (
-    <AuthContext.Provider value={{ user, loading, firebaseReady, signInWithGoogle, logout }}>
+    <AuthContext.Provider value={{ user, loading, firebaseReady: true, signInWithGoogle, logout }}>
       {children}
     </AuthContext.Provider>
   );
