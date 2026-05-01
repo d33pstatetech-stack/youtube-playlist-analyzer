@@ -263,10 +263,6 @@ interface PlaylistAnalysisResult {
  * Tagged with `playlist-{id}` for on-demand revalidation.
  */
 async function getPlaylistAnalysis(playlistId: string, providerOverride?: string): Promise<PlaylistAnalysisResult> {
-  'use cache'
-  cacheLife('hours')
-  cacheTag(`playlist-${playlistId}-${providerOverride || 'auto'}`)
-
   const apiKey = process.env.YOUTUBE_API_KEY;
   if (!apiKey) throw new Error('YouTube API key not configured');
 
