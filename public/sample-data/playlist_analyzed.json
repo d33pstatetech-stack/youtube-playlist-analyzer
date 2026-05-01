@@ -1,0 +1,2230 @@
+{
+  "playlistTitle": "Arduino & Electronics Projects",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLz1ndau9pOEcZL9cV_8wUqSVnYFKDkZP4",
+  "videoCount": 134,
+  "allTags": [
+    "16x2 lcd",
+    "3d printing",
+    "ai",
+    "ai assistant",
+    "ai chatbot",
+    "ai coding",
+    "amd",
+    "anthropic",
+    "arduino",
+    "artificial intelligence",
+    "audio",
+    "automation",
+    "aws",
+    "beginner tutorial",
+    "breadboard",
+    "browser extension",
+    "budget electronics",
+    "budget tech",
+    "c++",
+    "censorship",
+    "chatgpt",
+    "circuits",
+    "communication",
+    "communication protocols",
+    "cpu",
+    "custom modules",
+    "cyberdeck",
+    "cyberpunk",
+    "cybersecurity",
+    "debugging",
+    "digital electronics",
+    "display library",
+    "displays",
+    "diy",
+    "diy electronics",
+    "diy project",
+    "diy projects",
+    "drones",
+    "e-paper",
+    "education",
+    "efficiency",
+    "electronics",
+    "embedded systems",
+    "engineering",
+    "esp32",
+    "esp32-s3",
+    "esp8266",
+    "esphome",
+    "firmware",
+    "future tech",
+    "gadgets",
+    "gemini ai",
+    "gpio matrix",
+    "hardware",
+    "hardware hacking",
+    "hardware review",
+    "hardware tips",
+    "heltec",
+    "home assistant",
+    "home automation",
+    "home server",
+    "homelab",
+    "hugging face",
+    "i2c vs spi",
+    "innovation",
+    "iot",
+    "laptops",
+    "lcd display",
+    "linux",
+    "llm",
+    "local ai",
+    "local llm",
+    "logic gates",
+    "lora",
+    "low power",
+    "maker guide",
+    "manufacturing",
+    "mesh network",
+    "meshtastic",
+    "microcontroller",
+    "microcontrollers",
+    "micropython",
+    "microserver",
+    "motors",
+    "networking",
+    "no-code",
+    "off-grid",
+    "offline comms",
+    "oled",
+    "ollama",
+    "open source",
+    "operating systems",
+    "os monitoring",
+    "pagers",
+    "pc build",
+    "pcb design",
+    "physics",
+    "pinout",
+    "platformio",
+    "portable tech",
+    "privacy",
+    "programming",
+    "projects",
+    "radio",
+    "raspberry pi",
+    "retro tech",
+    "reverse engineering",
+    "robotics",
+    "sbc",
+    "server",
+    "servos",
+    "simulation",
+    "single board computer",
+    "smart home",
+    "software",
+    "software tool",
+    "soldering",
+    "speech to text",
+    "spi protocol",
+    "st7789 display",
+    "storage",
+    "tech",
+    "tech trends",
+    "tft_espi",
+    "tools",
+    "transistors",
+    "tts",
+    "ui design",
+    "video editing",
+    "virtual pet",
+    "voice assistant",
+    "voice control",
+    "web tools"
+  ],
+  "videos": [
+    {
+      "id": "9IFSPqSr6t8",
+      "title": "I tried the Cheapest Arduino Alternative (that Nobody heard of)",
+      "description": "",
+      "channel": "GreatScott!",
+      "url": "https://www.youtube.com/watch?v=9IFSPqSr6t8",
+      "tags": [
+        "arduino",
+        "budget electronics"
+      ],
+      "summary": [
+        "Exploration of an obscure, low-cost microcontroller alternative to official Arduino boards.",
+        "Testing performance and compatibility for budget-conscious makers."
+      ]
+    },
+    {
+      "id": "odEdIcerJMQ",
+      "title": "12 Best Arduino Projects for Beginners in 2024!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=odEdIcerJMQ",
+      "tags": [
+        "arduino",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Showcase of entry-level projects ideal for starting with Arduino in 2024.",
+        "Brief overview of components and functionality for each featured project."
+      ]
+    },
+    {
+      "id": "1j1kAuqePJo",
+      "title": "How To Build Your Own Desktop Turret Robot!",
+      "description": "",
+      "channel": "CrunchLabs",
+      "url": "https://www.youtube.com/watch?v=1j1kAuqePJo",
+      "tags": [
+        "robotics",
+        "diy"
+      ],
+      "summary": [
+        "Step-by-step instructions for constructing a functional desktop turret robot.",
+        "Covers mechanical assembly and the necessary electronic control systems."
+      ]
+    },
+    {
+      "id": "AsQ8I53SKPc",
+      "title": "I tried the 3 Cheapest Arduino Alternatives! (That you Suggested)",
+      "description": "",
+      "channel": "GreatScott!",
+      "url": "https://www.youtube.com/watch?v=AsQ8I53SKPc",
+      "tags": [
+        "arduino",
+        "microcontrollers"
+      ],
+      "summary": [
+        "Comparison of three affordable Arduino clones based on community suggestions.",
+        "Evaluation of value, reliability, and ease of use for each board."
+      ]
+    },
+    {
+      "id": "kWFXAqv2ZKw",
+      "title": "Workbench Essentials When Starting Arduino! (Beginner Guide)",
+      "description": "",
+      "channel": "Robonyx",
+      "url": "https://www.youtube.com/watch?v=kWFXAqv2ZKw",
+      "tags": [
+        "electronics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Essential tools and equipment needed to start an Arduino electronics workbench.",
+        "Practical advice on organizing workspace for efficient project development."
+      ]
+    },
+    {
+      "id": "rby8a_DsSYc",
+      "title": "Unleashing the $10 Tech Revolution: Milk-V Duo S Rocks the Linux World!",
+      "description": "",
+      "channel": "Technically Unsure",
+      "url": "https://www.youtube.com/watch?v=rby8a_DsSYc",
+      "tags": [
+        "linux",
+        "single board computer"
+      ],
+      "summary": [
+        "Analysis of the Milk-V Duo S, an ultra-affordable Linux-capable chip.",
+        "Discussion on its impact for low-cost embedded Linux development."
+      ]
+    },
+    {
+      "id": "fFgyOucIFuk",
+      "title": "Feed Your OWN Documents to a Local Large Language Model!",
+      "description": "",
+      "channel": "Dave's Garage",
+      "url": "https://www.youtube.com/watch?v=fFgyOucIFuk",
+      "tags": [
+        "artificial intelligence",
+        "local llm"
+      ],
+      "summary": [
+        "Tutorial on training or prompting local AI models with private documents.",
+        "Focuses on data privacy and running Large Language Models locally."
+      ]
+    },
+    {
+      "id": "WMcNqiFFzPY",
+      "title": "Automate ANY task using ChatGPT! (with GPT actions feature)",
+      "description": "",
+      "channel": "AI Foundations",
+      "url": "https://www.youtube.com/watch?v=WMcNqiFFzPY",
+      "tags": [
+        "chatgpt",
+        "automation"
+      ],
+      "summary": [
+        "Using GPT actions to automate digital tasks via API integrations.",
+        "Guide to extending ChatGPT capabilities for customized workflow automation."
+      ]
+    },
+    {
+      "id": "RtmjpUDPvFQ",
+      "title": "The Best 20 Arduino Projects of the year 2024!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=RtmjpUDPvFQ",
+      "tags": [
+        "arduino",
+        "robotics"
+      ],
+      "summary": [
+        "Curated list of the most innovative Arduino projects from 2024.",
+        "Highlights advanced engineering and creative coding across various skill levels."
+      ]
+    },
+    {
+      "id": "AwhF2enymhs",
+      "title": "Reverse Engineering Smart TV Remote with Logic Analyzer",
+      "description": "",
+      "channel": "Matt Brown",
+      "url": "https://www.youtube.com/watch?v=AwhF2enymhs",
+      "tags": [
+        "reverse engineering",
+        "electronics"
+      ],
+      "summary": [
+        "Deconstructing a smart TV remote using a logic analyzer tool.",
+        "Explaining how to capture and decode infrared or RF signals."
+      ]
+    },
+    {
+      "id": "YPcOwKtRuDQ",
+      "title": "DEF CON 32 - Anyone can hack IoT- Beginner\u2019s Guide to Hacking Your First IoT Device - Andrew Bellini",
+      "description": "",
+      "channel": "DEFCONConference",
+      "url": "https://www.youtube.com/watch?v=YPcOwKtRuDQ",
+      "tags": [
+        "cybersecurity",
+        "iot"
+      ],
+      "summary": [
+        "Introductory guide from DEF CON on hacking IoT device firmware.",
+        "Demonstrates common vulnerabilities and basic penetration testing techniques."
+      ]
+    },
+    {
+      "id": "k02P5nghmfs",
+      "title": "your home automation SUCKS!!",
+      "description": "",
+      "channel": "NetworkChuck",
+      "url": "https://www.youtube.com/watch?v=k02P5nghmfs",
+      "tags": [
+        "home automation",
+        "smart home"
+      ],
+      "summary": [
+        "Critical look at common mistakes in home automation setups.",
+        "Suggestions for building more reliable and integrated smart home ecosystems."
+      ]
+    },
+    {
+      "id": "FxwA0DLxyrw",
+      "title": "Anthropic Computer Use. Where is Claude 3.5 Opus? Sonnet File and Bash Tools",
+      "description": "",
+      "channel": "IndyDevDan",
+      "url": "https://www.youtube.com/watch?v=FxwA0DLxyrw",
+      "tags": [
+        "anthropic",
+        "artificial intelligence"
+      ],
+      "summary": [
+        "Demonstration of Claude 3.5 Sonnet using bash and file tools.",
+        "Analysis of Anthropic's new computer-use capabilities for developers."
+      ]
+    },
+    {
+      "id": "8XyBSSwEpcY",
+      "title": "How to Solder? | A Beginner's Guide",
+      "description": "",
+      "channel": "Devomech Solutions",
+      "url": "https://www.youtube.com/watch?v=8XyBSSwEpcY",
+      "tags": [
+        "soldering",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Fundamental techniques for soldering electronic components to circuit boards.",
+        "Safety tips and tool recommendations for achieving clean connections."
+      ]
+    },
+    {
+      "id": "qI2lHxNFYMA",
+      "title": "Microcontroller selection #criteria  or Step to select #microcontroller  for #projects",
+      "description": "",
+      "channel": "Hunt Electronics ",
+      "url": "https://www.youtube.com/watch?v=qI2lHxNFYMA",
+      "tags": [
+        "microcontrollers",
+        "engineering"
+      ],
+      "summary": [
+        "Criteria for choosing the right microcontroller for specific project requirements.",
+        "Comparison of power, I/O, and memory across different chips."
+      ]
+    },
+    {
+      "id": "Ddgdydmzqkc",
+      "title": "Fun With HARDWARE HACKING!!! - UART ROOT SHELLS and Finding SECRETS!",
+      "description": "",
+      "channel": "Daniel Lowrie",
+      "url": "https://www.youtube.com/watch?v=Ddgdydmzqkc",
+      "tags": [
+        "hardware hacking",
+        "cybersecurity"
+      ],
+      "summary": [
+        "Tutorial on accessing root shells via UART serial interfaces.",
+        "Methods for extracting secrets and firmware from physical hardware."
+      ]
+    },
+    {
+      "id": "mdOEaNV8NXw",
+      "title": "Local AI Just Got Easy (and Cheap)",
+      "description": "",
+      "channel": "Data Slayer",
+      "url": "https://www.youtube.com/watch?v=mdOEaNV8NXw",
+      "tags": [
+        "artificial intelligence",
+        "local llm"
+      ],
+      "summary": [
+        "Simple methods for running powerful AI models on consumer hardware.",
+        "Review of software tools that make local AI accessible."
+      ]
+    },
+    {
+      "id": "N3FXej9fqIk",
+      "title": "The Idiots Guide To Meshtastic - Long Range Comms!",
+      "description": "",
+      "channel": "Ringway Manchester",
+      "url": "https://www.youtube.com/watch?v=N3FXej9fqIk",
+      "tags": [
+        "meshtastic",
+        "radio"
+      ],
+      "summary": [
+        "Beginner-friendly guide to setting up long-range mesh networking devices.",
+        "Explains off-grid communication using LoRa technology and Meshtastic."
+      ]
+    },
+    {
+      "id": "XvbVePuP7NY",
+      "title": "my local, AI Voice Assistant (I replaced Alexa!!)",
+      "description": "",
+      "channel": "NetworkChuck",
+      "url": "https://www.youtube.com/watch?v=XvbVePuP7NY",
+      "tags": [
+        "artificial intelligence",
+        "home automation"
+      ],
+      "summary": [
+        "Building a private voice assistant to replace commercial smart speakers.",
+        "Integration of local AI for voice recognition and device control."
+      ]
+    },
+    {
+      "id": "2OQ5ascBuCw",
+      "title": "Pi 5 Battle: Raspberry Pi vs Orange Pi vs Radxa",
+      "description": "",
+      "channel": "Maker by Mistake",
+      "url": "https://www.youtube.com/watch?v=2OQ5ascBuCw",
+      "tags": [
+        "raspberry pi",
+        "single board computer"
+      ],
+      "summary": [
+        "Benchmark comparison between Raspberry Pi 5 and major competitors.",
+        "Evaluation of performance, price, and ecosystem for each board."
+      ]
+    },
+    {
+      "id": "F-G-7-qo7Xg",
+      "title": "Glitching Linux Bootloader for Shells and Freedom - Rooting a TP-Link Security Camera",
+      "description": "",
+      "channel": "Matt Brown",
+      "url": "https://www.youtube.com/watch?v=F-G-7-qo7Xg",
+      "tags": [
+        "cybersecurity",
+        "linux"
+      ],
+      "summary": [
+        "Technical demonstration of glitching a bootloader to gain root access.",
+        "Case study on rooting a TP-Link camera for custom firmware."
+      ]
+    },
+    {
+      "id": "X4blR5Ua3S0",
+      "title": "This tiny computer changes EVERYTHING",
+      "description": "",
+      "channel": "Jeff Geerling",
+      "url": "https://www.youtube.com/watch?v=X4blR5Ua3S0",
+      "tags": [
+        "microcontrollers",
+        "innovation"
+      ],
+      "summary": [
+        "Deep dive into a revolutionary new small-form-factor computing module.",
+        "Potential applications for this high-power, tiny hardware."
+      ]
+    },
+    {
+      "id": "3d0yMi3bVgc",
+      "title": "Miniature Smart Watch Display for Video, IoT, and More \u2013 Meet vPlayer 1.0!",
+      "description": "",
+      "channel": "Kevin Darrah",
+      "url": "https://www.youtube.com/watch?v=3d0yMi3bVgc",
+      "tags": [
+        "iot",
+        "displays"
+      ],
+      "summary": [
+        "Overview of the vPlayer 1.0 miniature smart watch display.",
+        "Demonstrating video playback and IoT data visualization on small screens."
+      ]
+    },
+    {
+      "id": "shOsIt5IQ-8",
+      "title": "2uA Ultra low Power Motion Sensor that Plays mp3 Files and Sends Notifications - ESP32 (trigBoard)",
+      "description": "",
+      "channel": "Kevin Darrah",
+      "url": "https://www.youtube.com/watch?v=shOsIt5IQ-8",
+      "tags": [
+        "esp32",
+        "low power"
+      ],
+      "summary": [
+        "Using the trigBoard for ultra-low power motion sensing and notifications.",
+        "Integration of MP3 playback features in a battery-optimized system."
+      ]
+    },
+    {
+      "id": "SQ18kfBg6I8",
+      "title": "Lowest Power (~3uA) MOTION Sensor - WiFi Connected with trigBoard",
+      "description": "",
+      "channel": "Kevin Darrah",
+      "url": "https://www.youtube.com/watch?v=SQ18kfBg6I8",
+      "tags": [
+        "esp32",
+        "iot"
+      ],
+      "summary": [
+        "Deep dive into a WiFi motion sensor with 3uA consumption.",
+        "Optimizing ESP32 projects for multi-year battery life."
+      ]
+    },
+    {
+      "id": "5KNMNMmEE50",
+      "title": "AMD's next gen chiplets could FIX everything",
+      "description": "",
+      "channel": "Coreteks",
+      "url": "https://www.youtube.com/watch?v=5KNMNMmEE50",
+      "tags": [
+        "amd",
+        "cpu",
+        "hardware"
+      ],
+      "summary": [
+        "Examines AMD next-generation chiplet architecture improvements.",
+        "Discusses potential fixes for current performance bottlenecks."
+      ]
+    },
+    {
+      "id": "RY5VR8T0vuU",
+      "title": "DON'T Underestimate This Cheap MicroServer",
+      "description": "",
+      "channel": "Hardware Haven",
+      "url": "https://www.youtube.com/watch?v=RY5VR8T0vuU",
+      "tags": [
+        "microserver",
+        "server",
+        "hardware"
+      ],
+      "summary": [
+        "Reviews an affordable, high-performance microserver for home labs.",
+        "Evaluates value and hardware capabilities for enthusiasts."
+      ]
+    },
+    {
+      "id": "FnB12C4Npus",
+      "title": "I Built A $100 Storage Server! (2024)",
+      "description": "",
+      "channel": "Tech By Matt",
+      "url": "https://www.youtube.com/watch?v=FnB12C4Npus",
+      "tags": [
+        "server",
+        "storage",
+        "budget tech"
+      ],
+      "summary": [
+        "Guides building a functional storage server for $100.",
+        "Details hardware selection for low-cost data management."
+      ]
+    },
+    {
+      "id": "KUvkIH0voLw",
+      "title": "How To ESP32 Video Player - vPlayer Board",
+      "description": "",
+      "channel": "Kevin Darrah",
+      "url": "https://www.youtube.com/watch?v=KUvkIH0voLw",
+      "tags": [
+        "esp32",
+        "electronics",
+        "diy"
+      ],
+      "summary": [
+        "Demonstrates a dedicated video player board using ESP32.",
+        "Explains how to set up and play media."
+      ]
+    },
+    {
+      "id": "sjIpt7wNMN8",
+      "title": "The 20 Best ESP32 Projects of 2024!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=sjIpt7wNMN8",
+      "tags": [
+        "esp32",
+        "iot",
+        "projects"
+      ],
+      "summary": [
+        "Showcases top innovative ESP32 projects for 2024.",
+        "Provides inspiration for various smart home applications."
+      ]
+    },
+    {
+      "id": "dOVjb2wXI84",
+      "title": "Getting Started with the ESP32 Development Board  |  Programming an ESP32 in C/C++",
+      "description": "",
+      "channel": "Low Level",
+      "url": "https://www.youtube.com/watch?v=dOVjb2wXI84",
+      "tags": [
+        "esp32",
+        "programming",
+        "c++"
+      ],
+      "summary": [
+        "Introduction to programming ESP32 using C and C++.",
+        "Covers essential development board setup and coding basics."
+      ]
+    },
+    {
+      "id": "tc3Qnf79Ny8",
+      "title": "Getting Started with ESP32 - Step-By-Step Tutorial",
+      "description": "",
+      "channel": "Tomasz Tarnowski",
+      "url": "https://www.youtube.com/watch?v=tc3Qnf79Ny8",
+      "tags": [
+        "esp32",
+        "beginner tutorial",
+        "iot"
+      ],
+      "summary": [
+        "Step-by-step beginner guide for starting with ESP32.",
+        "Covers environment setup and initial hardware configuration."
+      ]
+    },
+    {
+      "id": "5oKeVyxgwzk",
+      "title": "Run Linux on ESP32 - how to run the Linux kernel on an ESP32",
+      "description": "",
+      "channel": "Tam Hanna's Crazy Electronics Lab",
+      "url": "https://www.youtube.com/watch?v=5oKeVyxgwzk",
+      "tags": [
+        "esp32",
+        "linux",
+        "operating systems"
+      ],
+      "summary": [
+        "Demonstrates running a minimal Linux kernel on ESP32.",
+        "Explains the technical limitations and installation process."
+      ]
+    },
+    {
+      "id": "pj0a91vlcGo",
+      "title": "How to Run Linux on an ESP32",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=pj0a91vlcGo",
+      "tags": [
+        "esp32",
+        "linux",
+        "firmware"
+      ],
+      "summary": [
+        "Detailed walkthrough for installing Linux on ESP32 chips.",
+        "Analyzes performance and practical use cases."
+      ]
+    },
+    {
+      "id": "AV8fCXBst4o",
+      "title": "DIY Single Board Computer with ESP32 and Raspberry Pi Pico",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=AV8fCXBst4o",
+      "tags": [
+        "esp32",
+        "raspberry pi",
+        "sbc"
+      ],
+      "summary": [
+        "Guides building a custom SBC with ESP32 and Pico.",
+        "Explains hardware integration for DIY computing."
+      ]
+    },
+    {
+      "id": "iZYedWOERN0",
+      "title": "Circuit Basics - The Learning Circuit",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=iZYedWOERN0",
+      "tags": [
+        "electronics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Explains fundamental concepts of electrical circuits.",
+        "Ideal for beginners starting with hardware electronics."
+      ]
+    },
+    {
+      "id": "At-kTyOVklM",
+      "title": "Basic Tools & Wire - The Learning Circuit",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=At-kTyOVklM",
+      "tags": [
+        "electronics",
+        "tools"
+      ],
+      "summary": [
+        "Reviews essential tools and wire types for electronics.",
+        "Teaches proper wire handling and tool usage."
+      ]
+    },
+    {
+      "id": "IEkB12iwcTA",
+      "title": "The Learning Circuit - Basic Soldering Tools",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=IEkB12iwcTA",
+      "tags": [
+        "soldering",
+        "tools",
+        "electronics"
+      ],
+      "summary": [
+        "Introduces necessary equipment for electronic soldering.",
+        "Explains iron types, solder, and flux options."
+      ]
+    },
+    {
+      "id": "3atp5GXslcw",
+      "title": "The Learning Circuit - Learning to Solder!",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=3atp5GXslcw",
+      "tags": [
+        "soldering",
+        "beginner tutorial",
+        "electronics"
+      ],
+      "summary": [
+        "Practical lesson on how to solder components safely.",
+        "Tips for achieving clean and reliable solder joints."
+      ]
+    },
+    {
+      "id": "1o6Q2QzmFvA",
+      "title": "The Learning Circuit - Intro to Arduino",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=1o6Q2QzmFvA",
+      "tags": [
+        "arduino",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Comprehensive introduction to the Arduino platform.",
+        "Covers hardware overview and basic ecosystem concepts."
+      ]
+    },
+    {
+      "id": "3m9PfEXlJY8",
+      "title": "The Learning Circuit - Arduino Starter Kit: Spaceship Interface",
+      "description": "",
+      "channel": "element14 presents",
+      "url": "https://www.youtube.com/watch?v=3m9PfEXlJY8",
+      "tags": [
+        "arduino",
+        "projects"
+      ],
+      "summary": [
+        "Walkthrough of a spaceship interface project using Arduino.",
+        "Uses components from the official starter kit."
+      ]
+    },
+    {
+      "id": "QdHvS0D1zAI",
+      "title": "Raspberry Pi versus AWS // How to host your website on the RPi4",
+      "description": "",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=QdHvS0D1zAI",
+      "tags": [
+        "raspberry pi",
+        "server",
+        "aws"
+      ],
+      "summary": [
+        "Compares hosting websites on Raspberry Pi versus AWS.",
+        "Discusses cost, performance, and self-hosting benefits."
+      ]
+    },
+    {
+      "id": "Vv9Ouf_QH5s",
+      "title": "Top 25 Raspberry Pi Projects of 2024 \ud83e\udd2f!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=Vv9Ouf_QH5s",
+      "tags": [
+        "raspberry pi",
+        "projects"
+      ],
+      "summary": [
+        "Highlights 25 creative Raspberry Pi projects for 2024.",
+        "Covers diverse applications from retro gaming to automation."
+      ]
+    },
+    {
+      "id": "mUGsv_IHT-g",
+      "title": "Run Local LLMs on Hardware from $50 to $50,000 - We Test and Compare!",
+      "description": "",
+      "channel": "Dave's Garage",
+      "url": "https://www.youtube.com/watch?v=mUGsv_IHT-g",
+      "tags": [
+        "ai",
+        "hardware",
+        "llm"
+      ],
+      "summary": [
+        "Tests local LLM performance across various hardware price points.",
+        "Compares budget chips to high-end enterprise GPUs."
+      ]
+    },
+    {
+      "id": "HG5z_UeGJ2M",
+      "title": "Codestral-V2 (Free API) + Bolt DIY + Cline & Aider: This FREE & NO RATE LIMIT AI Coder is AMAZING!",
+      "description": "",
+      "channel": "AICodeKing",
+      "url": "https://www.youtube.com/watch?v=HG5z_UeGJ2M",
+      "tags": [
+        "ai",
+        "programming",
+        "software"
+      ],
+      "summary": [
+        "Reviews free AI coding tools with no rate limits.",
+        "Demonstrates Codestral-V2 integration with DIY coding agents."
+      ]
+    },
+    {
+      "id": "2tjDN2BV-ic",
+      "title": "ESP32 and PlatformIO - A perfect combo for any IoT projects!",
+      "description": "",
+      "channel": "SDN TechForum",
+      "url": "https://www.youtube.com/watch?v=2tjDN2BV-ic",
+      "tags": [
+        "esp32",
+        "iot",
+        "platformio"
+      ],
+      "summary": [
+        "Explains benefits of using PlatformIO for ESP32 projects.",
+        "Demonstrates professional workflow for IoT development."
+      ]
+    },
+    {
+      "id": "rnwPmoWMGqk",
+      "title": "I built my ideal mini computer",
+      "description": "",
+      "channel": "abe's projects",
+      "url": "https://www.youtube.com/watch?v=rnwPmoWMGqk",
+      "tags": [
+        "sbc",
+        "pc build",
+        "hardware"
+      ],
+      "summary": [
+        "Walkthrough of building a custom ideal mini computer.",
+        "Focuses on design, component choice, and assembly."
+      ]
+    },
+    {
+      "id": "fLzmRKxGGtI",
+      "title": "10 Best Circuit Simulators!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=fLzmRKxGGtI",
+      "tags": [
+        "electronics",
+        "software",
+        "simulation"
+      ],
+      "summary": [
+        "Compares the top 10 circuit simulation software tools.",
+        "Evaluates features for both hobbyists and professionals."
+      ]
+    },
+    {
+      "id": "cfimVHCj5Mg",
+      "title": "Home Assistant Setup Guide 2025 \u2013 No Raspberry Pi \ud83d\ude33",
+      "description": "",
+      "channel": "Paul Hibbert (Hibbert Home Tech)",
+      "url": "https://www.youtube.com/watch?v=cfimVHCj5Mg",
+      "tags": [
+        "home assistant",
+        "smart home"
+      ],
+      "summary": [
+        "Guide to setting up Home Assistant without Raspberry Pi.",
+        "Explores alternative hardware options for smart homes."
+      ]
+    },
+    {
+      "id": "gtCiRuC62Ns",
+      "title": "You\u2019ve Never Seen Texting Like This",
+      "description": "",
+      "channel": "Data Slayer",
+      "url": "https://www.youtube.com/watch?v=gtCiRuC62Ns",
+      "tags": [
+        "communication",
+        "tech",
+        "gadgets"
+      ],
+      "summary": [
+        "Explores unique and unconventional methods of text messaging.",
+        "Showcases innovative hardware or software for communication."
+      ]
+    },
+    {
+      "id": "V5ad6y5sixU",
+      "title": "Why I Made a Browser Extension to Punch Surveillance in the Face (It's free and open source)",
+      "description": "",
+      "channel": "Sam Bent",
+      "url": "https://www.youtube.com/watch?v=V5ad6y5sixU",
+      "tags": [
+        "privacy",
+        "browser extension",
+        "open source"
+      ],
+      "summary": [
+        "Explains the creation of a tool to combat online surveillance.",
+        "The extension is free, open source, and enhances user privacy."
+      ]
+    },
+    {
+      "id": "N4YeXl-8EtU",
+      "title": "PAGERS ARE BACK AND THEY ARE BEING USED BY SMART PEOPLE!!!",
+      "description": "",
+      "channel": "andy kirby",
+      "url": "https://www.youtube.com/watch?v=N4YeXl-8EtU",
+      "tags": [
+        "pagers",
+        "communication",
+        "retro tech"
+      ],
+      "summary": [
+        "Discusses the resurgence of pager technology among tech enthusiasts.",
+        "Explores benefits of distraction-free, reliable long-range communication."
+      ]
+    },
+    {
+      "id": "CIBmVXteOcI",
+      "title": "Building Cheap & Efficient Home Servers with... Laptops?",
+      "description": "",
+      "channel": "Hardware Haven",
+      "url": "https://www.youtube.com/watch?v=CIBmVXteOcI",
+      "tags": [
+        "home server",
+        "laptops",
+        "homelab"
+      ],
+      "summary": [
+        "Demonstrates repurposing old laptops as efficient home server nodes.",
+        "Highlights benefits like built-in batteries and low power consumption."
+      ]
+    },
+    {
+      "id": "IX4q8dX3jbU",
+      "title": "Your computer is logging this!",
+      "description": "",
+      "channel": "PC Security Channel",
+      "url": "https://www.youtube.com/watch?v=IX4q8dX3jbU",
+      "tags": [
+        "privacy",
+        "cybersecurity",
+        "os monitoring"
+      ],
+      "summary": [
+        "Details hidden logging activities within modern operating systems.",
+        "Explains how to identify and limit invasive data collection."
+      ]
+    },
+    {
+      "id": "S6GpV431nww",
+      "title": "How To Automate Anything. A Guide to Parts Every Maker Should Know How To Use.",
+      "description": "",
+      "channel": "Jeremy Fielding",
+      "url": "https://www.youtube.com/watch?v=S6GpV431nww",
+      "tags": [
+        "automation",
+        "maker guide",
+        "robotics"
+      ],
+      "summary": [
+        "Comprehensive overview of essential components for DIY automation.",
+        "Teaches how to choose actuators, sensors, and controllers."
+      ]
+    },
+    {
+      "id": "cGsRJhoF5yY",
+      "title": "DIY IoT  E-PAPER  Message Board",
+      "description": "",
+      "channel": "James Bruton",
+      "url": "https://www.youtube.com/watch?v=cGsRJhoF5yY",
+      "tags": [
+        "e-paper",
+        "iot",
+        "arduino"
+      ],
+      "summary": [
+        "Step-by-step guide to building a Wi-Fi enabled message board.",
+        "Utilizes low-power e-ink displays for long battery life."
+      ]
+    },
+    {
+      "id": "dpU7yZE1PkE",
+      "title": "Turn ANY Device into a Smart Device with ESP8266",
+      "description": "",
+      "channel": "Adrian Slabu",
+      "url": "https://www.youtube.com/watch?v=dpU7yZE1PkE",
+      "tags": [
+        "esp8266",
+        "smart home",
+        "iot"
+      ],
+      "summary": [
+        "Tutorial on adding Wi-Fi control to legacy hardware devices.",
+        "Uses the affordable ESP8266 module for smart home integration."
+      ]
+    },
+    {
+      "id": "vBD1x9yAfgs",
+      "title": "12 New ESP32 Projects!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=vBD1x9yAfgs",
+      "tags": [
+        "esp32",
+        "iot",
+        "diy projects"
+      ],
+      "summary": [
+        "Showcases twelve innovative projects powered by the ESP32 microcontroller.",
+        "Covers diverse applications from displays to wireless sensors."
+      ]
+    },
+    {
+      "id": "8gu19fvKv3M",
+      "title": "...And It Only Uses 0.35 Watts???",
+      "description": "",
+      "channel": "Core Electronics",
+      "url": "https://www.youtube.com/watch?v=8gu19fvKv3M",
+      "tags": [
+        "efficiency",
+        "electronics",
+        "low power"
+      ],
+      "summary": [
+        "Analysis of a device achieving incredibly low power consumption.",
+        "Explains engineering techniques used to optimize energy efficiency."
+      ]
+    },
+    {
+      "id": "wcUTzVxcCLg",
+      "title": "Why the Best Modules Don\u2019t Exist (And How to Make Them)",
+      "description": "",
+      "channel": "FluxBench",
+      "url": "https://www.youtube.com/watch?v=wcUTzVxcCLg",
+      "tags": [
+        "pcb design",
+        "electronics",
+        "custom modules"
+      ],
+      "summary": [
+        "Explains why off-the-shelf modules often fail professional requirements.",
+        "Guide to designing and manufacturing custom high-quality circuit boards."
+      ]
+    },
+    {
+      "id": "Sd42q3OaOrE",
+      "title": "You don't need a Raspberry Pi! (Getting started with Microcontrollers)",
+      "description": "",
+      "channel": "Jeff Geerling",
+      "url": "https://www.youtube.com/watch?v=Sd42q3OaOrE",
+      "tags": [
+        "microcontrollers",
+        "electronics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Introduces affordable alternatives to the expensive Raspberry Pi boards.",
+        "Getting started guide for microcontrollers like Arduino and ESP32."
+      ]
+    },
+    {
+      "id": "Da0PH-rEPI4",
+      "title": "The ESP32 Advantage: 10 Features For IoT Projects",
+      "description": "",
+      "channel": "Vman Builds",
+      "url": "https://www.youtube.com/watch?v=Da0PH-rEPI4",
+      "tags": [
+        "esp32",
+        "iot",
+        "embedded systems"
+      ],
+      "summary": [
+        "Breaks down ten powerful features of the ESP32 chip.",
+        "Explains why it is the preferred choice for IoT developers."
+      ]
+    },
+    {
+      "id": "bmLE9BT76Pc",
+      "title": "I Built a $40,000 Military Drone for $120.07",
+      "description": "",
+      "channel": "Data Slayer",
+      "url": "https://www.youtube.com/watch?v=bmLE9BT76Pc",
+      "tags": [
+        "drones",
+        "diy electronics",
+        "engineering"
+      ],
+      "summary": [
+        "Demonstrates building a high-performance drone on a tiny budget.",
+        "Compares DIY hardware capabilities against expensive military counterparts."
+      ]
+    },
+    {
+      "id": "ofR7GFNZzJY",
+      "title": "I Built a $20,000 Military Router for $106.23",
+      "description": "",
+      "channel": "Data Slayer",
+      "url": "https://www.youtube.com/watch?v=ofR7GFNZzJY",
+      "tags": [
+        "networking",
+        "diy electronics",
+        "cybersecurity"
+      ],
+      "summary": [
+        "Tutorial on building a rugged, high-spec router for cheap.",
+        "Focuses on privacy, open-source firmware, and hardware durability."
+      ]
+    },
+    {
+      "id": "L5RJZmuRJKA",
+      "title": "Don\u2019t buy a Gridbase pocket... | Offline \"Internet\"",
+      "description": "",
+      "channel": "SixtyAteWhiskey",
+      "url": "https://www.youtube.com/watch?v=L5RJZmuRJKA",
+      "tags": [
+        "mesh network",
+        "offline comms",
+        "lora"
+      ],
+      "summary": [
+        "Review of offline communication gadgets and their limitations.",
+        "Proposes better alternatives for decentralized, grid-independent messaging."
+      ]
+    },
+    {
+      "id": "pDELW2pIvWw",
+      "title": "Digital Electronics - The First Video YOU Should Watch",
+      "description": "",
+      "channel": "CaptiveAire",
+      "url": "https://www.youtube.com/watch?v=pDELW2pIvWw",
+      "tags": [
+        "digital electronics",
+        "logic gates",
+        "education"
+      ],
+      "summary": [
+        "Fundamental introduction to binary logic and digital circuits.",
+        "Essential viewing for anyone starting in computer engineering."
+      ]
+    },
+    {
+      "id": "SGvOmwZvhVk",
+      "title": "Electronics: Lesson 1 - The Fundamentals",
+      "description": "",
+      "channel": "Leo's Bag of Tricks",
+      "url": "https://www.youtube.com/watch?v=SGvOmwZvhVk",
+      "tags": [
+        "electronics",
+        "physics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Covers basic concepts like voltage, current, and resistance.",
+        "First lesson in a comprehensive electronics foundational course."
+      ]
+    },
+    {
+      "id": "wfsCVjDWdmU",
+      "title": "When they block the internet you'll need this...",
+      "description": "",
+      "channel": "andy kirby",
+      "url": "https://www.youtube.com/watch?v=wfsCVjDWdmU",
+      "tags": [
+        "censorship",
+        "mesh network",
+        "communication"
+      ],
+      "summary": [
+        "Tools and strategies for communicating during internet shutdowns.",
+        "Focuses on peer-to-peer hardware and decentralized protocols."
+      ]
+    },
+    {
+      "id": "HpQ_HQdJvCs",
+      "title": "BuildList: Your Personal Online Factory",
+      "description": "",
+      "channel": "N-O-D-E",
+      "url": "https://www.youtube.com/watch?v=HpQ_HQdJvCs",
+      "tags": [
+        "manufacturing",
+        "3d printing",
+        "automation"
+      ],
+      "summary": [
+        "Introduction to a platform for streamlining custom hardware production.",
+        "Explains how to automate the transition from design to product."
+      ]
+    },
+    {
+      "id": "M0FKp2y9JoA",
+      "title": "Top 15 IoT Projects of 2025 \ud83e\udd2f!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=M0FKp2y9JoA",
+      "tags": [
+        "iot",
+        "tech trends",
+        "future tech"
+      ],
+      "summary": [
+        "Curated list of the most promising IoT projects for 2025.",
+        "Highlights innovations in smart home, health, and industry."
+      ]
+    },
+    {
+      "id": "1UDsWkcQZhc",
+      "title": "How I Made This Tiny Walking Robot From Scratch",
+      "description": "",
+      "channel": "Dorian Todd and Make:",
+      "url": "https://www.youtube.com/watch?v=1UDsWkcQZhc",
+      "tags": [
+        "robotics",
+        "diy",
+        "engineering"
+      ],
+      "summary": [
+        "Detailed walkthrough of building a miniature bipedal walking robot.",
+        "Covers mechanical design, 3D printing, and motor control."
+      ]
+    },
+    {
+      "id": "a9zXlPMo9Fw",
+      "title": "Breadboard 101 | Electronics Basics for Beginners ",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=a9zXlPMo9Fw",
+      "tags": [
+        "breadboard",
+        "electronics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Teaches the basics of prototyping circuits without soldering.",
+        "Explains internal breadboard connections and common power setups."
+      ]
+    },
+    {
+      "id": "jRvX1Un0ixM",
+      "title": "How to Control Any Motor with Arduino (DC, Servo, Stepper)",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=jRvX1Un0ixM",
+      "tags": [
+        "arduino",
+        "motors",
+        "robotics"
+      ],
+      "summary": [
+        "Guide to interfacing Arduino with various motor types.",
+        "Explains wiring and code for servos, steppers, and DC motors."
+      ]
+    },
+    {
+      "id": "_HzG5FjH_6g",
+      "title": "10 ESP32 Pro Features: Take your Projects to the Next Level!",
+      "description": "",
+      "channel": "ToP Projects Compilation",
+      "url": "https://www.youtube.com/watch?v=_HzG5FjH_6g",
+      "tags": [
+        "esp32",
+        "iot",
+        "programming"
+      ],
+      "summary": [
+        "Advanced tips for maximizing ESP32 performance and stability.",
+        "Covers dual-core processing, sleep modes, and memory management."
+      ]
+    },
+    {
+      "id": "MCTTe8nZEgc",
+      "title": "We Tested The Smallest \"OpenClaw\" AI Agent in the World (zclaw)",
+      "description": "",
+      "channel": "Better Stack",
+      "url": "https://www.youtube.com/watch?v=MCTTe8nZEgc",
+      "tags": [
+        "ai",
+        "robotics",
+        "automation"
+      ],
+      "summary": [
+        "Testing a compact AI-driven robotic gripper system.",
+        "Evaluates performance of the 'zclaw' agent in real-world tasks."
+      ]
+    },
+    {
+      "id": "RiYnucfy_rs",
+      "title": "Arduino To ESP32: How to Get Started!",
+      "description": "",
+      "channel": "Robonyx",
+      "url": "https://www.youtube.com/watch?v=RiYnucfy_rs",
+      "tags": [
+        "arduino",
+        "esp32",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Explains hardware differences between Arduino and ESP32 boards.",
+        "Guides users through environment setup and first code uploads."
+      ]
+    },
+    {
+      "id": "-nhDKzBxHiI",
+      "title": "ESPConnect: The New All-In-One ESP32 Tool You\u2019ll Wish You Had Sooner",
+      "description": "",
+      "channel": "The Last Outpost Workshop",
+      "url": "https://www.youtube.com/watch?v=-nhDKzBxHiI",
+      "tags": [
+        "esp32",
+        "software tool",
+        "iot"
+      ],
+      "summary": [
+        "Introduces a unified tool for managing ESP32 device connections.",
+        "Demonstrates simplified configuration for WiFi and cloud integration."
+      ]
+    },
+    {
+      "id": "igWP0O_VuUo",
+      "title": "Meshtastic For Dummies AND Heltec V3 Setup for $10",
+      "description": "",
+      "channel": "DoItYourselfDad",
+      "url": "https://www.youtube.com/watch?v=igWP0O_VuUo",
+      "tags": [
+        "meshtastic",
+        "heltec",
+        "off-grid"
+      ],
+      "summary": [
+        "Explains long-range mesh networking for beginners.",
+        "Step-by-step setup guide for affordable Heltec V3 hardware."
+      ]
+    },
+    {
+      "id": "AAMMob9f-mk",
+      "title": "Beginner's Guide to ESPHome ESP8266, ESP32, Beken Devices and more",
+      "description": "",
+      "channel": "digiblur DIY",
+      "url": "https://www.youtube.com/watch?v=AAMMob9f-mk",
+      "tags": [
+        "esphome",
+        "home automation",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Comprehensive guide to installing ESPHome on various microcontrollers.",
+        "Shows how to integrate DIY sensors into Home Assistant."
+      ]
+    },
+    {
+      "id": "aDaSp6zaqWM",
+      "title": "I Built an AI Desk Buddy with ESP32 (Xiaozhi + Custom Face UI)",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=aDaSp6zaqWM",
+      "tags": [
+        "esp32",
+        "artificial intelligence",
+        "robotics"
+      ],
+      "summary": [
+        "Builds an interactive desktop companion using ESP32 chips.",
+        "Integrates custom UI animations with AI voice capabilities."
+      ]
+    },
+    {
+      "id": "jg1okpfA4WM",
+      "title": "Build an AI Robot from Scratch | ESP32 Voice Assistant Robot Project",
+      "description": "",
+      "channel": "D. Creative",
+      "url": "https://www.youtube.com/watch?v=jg1okpfA4WM",
+      "tags": [
+        "robotics",
+        "voice assistant",
+        "esp32"
+      ],
+      "summary": [
+        "Instructions for building a voice-controlled robot from scratch.",
+        "Covers hardware assembly and software logic for AI responses."
+      ]
+    },
+    {
+      "id": "QUUyiE1upJk",
+      "title": "StackChan: AI Robot Assistant Powered by ESP32 S3 \ud83e\udd16",
+      "description": "",
+      "channel": "techiesms",
+      "url": "https://www.youtube.com/watch?v=QUUyiE1upJk",
+      "tags": [
+        "esp32",
+        "robotics",
+        "ai"
+      ],
+      "summary": [
+        "Showcases the StackChan open-source robot powered by ESP32-S3.",
+        "Demonstrates AI persona integration and expressive mechanical movements."
+      ]
+    },
+    {
+      "id": "ktWnwJ-e-_w",
+      "title": "Desk buddy | Companion robot with wheels | Code & 3D included",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=ktWnwJ-e-_w",
+      "tags": [
+        "robotics",
+        "3d printing",
+        "electronics"
+      ],
+      "summary": [
+        "A wheel-based companion robot project with open-source files.",
+        "Includes code and 3D models for hobbyist builders."
+      ]
+    },
+    {
+      "id": "e-nbSGRFP4Q",
+      "title": "I Built a ChatGPT AI Robot That Moves, Talks, and Thinks on Its Own",
+      "description": "",
+      "channel": "Tech With Anant",
+      "url": "https://www.youtube.com/watch?v=e-nbSGRFP4Q",
+      "tags": [
+        "chatgpt",
+        "robotics",
+        "ai"
+      ],
+      "summary": [
+        "Uses ChatGPT API to give a robot autonomous personality.",
+        "Features hardware that enables movement and speech synthesis."
+      ]
+    },
+    {
+      "id": "EGkv6HqoYZk",
+      "title": "Turning a Raspberry Pi into a (Physical) Virtual Pet",
+      "description": "",
+      "channel": "Will Cogley",
+      "url": "https://www.youtube.com/watch?v=EGkv6HqoYZk",
+      "tags": [
+        "raspberry pi",
+        "virtual pet",
+        "electronics"
+      ],
+      "summary": [
+        "Converts a Raspberry Pi into a physical Tamagotchi-style pet.",
+        "Combines hardware sensors with software-driven emotional states."
+      ]
+    },
+    {
+      "id": "l5ggH-YhuAw",
+      "title": "I made a real BMO local AI agent with a Raspberry Pi and Ollama",
+      "description": "",
+      "channel": "brenpoly",
+      "url": "https://www.youtube.com/watch?v=l5ggH-YhuAw",
+      "tags": [
+        "raspberry pi",
+        "ollama",
+        "local ai"
+      ],
+      "summary": [
+        "Recreates the BMO character using local AI processing.",
+        "Runs Ollama on a Pi for private voice interaction."
+      ]
+    },
+    {
+      "id": "yvBbcLCZIhg",
+      "title": "Testing Hugging Face's Raspberry Pi-powered open source robot",
+      "description": "",
+      "channel": "Jeff Geerling",
+      "url": "https://www.youtube.com/watch?v=yvBbcLCZIhg",
+      "tags": [
+        "raspberry pi",
+        "hugging face",
+        "robotics"
+      ],
+      "summary": [
+        "Evaluates an open-source robot design from Hugging Face.",
+        "Focuses on Raspberry Pi integration for machine learning tasks."
+      ]
+    },
+    {
+      "id": "6iZ5jyyye6k",
+      "title": "ESP32-P4 First Look! This Thing is a Beast!",
+      "description": "",
+      "channel": "Garage Tinkering",
+      "url": "https://www.youtube.com/watch?v=6iZ5jyyye6k",
+      "tags": [
+        "esp32",
+        "hardware review",
+        "microcontroller"
+      ],
+      "summary": [
+        "In-depth look at the powerful new ESP32-P4 chip.",
+        "Highlights high-performance features and lack of integrated WiFi."
+      ]
+    },
+    {
+      "id": "YvUIftsNHJk",
+      "title": "Cyberpunk room build - wall mounted glitchy lamp with OLED screen - Episode 3",
+      "description": "",
+      "channel": "DIY CYBERPUNK",
+      "url": "https://www.youtube.com/watch?v=YvUIftsNHJk",
+      "tags": [
+        "diy",
+        "oled",
+        "cyberpunk"
+      ],
+      "summary": [
+        "Builds a glitch-effect lamp for a cyberpunk aesthetic.",
+        "Uses OLED screens and wall-mounting for custom room decor."
+      ]
+    },
+    {
+      "id": "mdVQwNoq1Eo",
+      "title": "I Gave my Tiny Walking Robot AI, and Now He Hates Me",
+      "description": "",
+      "channel": "Dorian Todd",
+      "url": "https://www.youtube.com/watch?v=mdVQwNoq1Eo",
+      "tags": [
+        "robotics",
+        "ai",
+        "electronics"
+      ],
+      "summary": [
+        "Upgrades a small walking robot with an AI brain.",
+        "Explores humorous and complex behaviors using LLM integration."
+      ]
+    },
+    {
+      "id": "PBpG40nH68s",
+      "title": "I Built a Foldable CyberDeck (Internal Breadboards)",
+      "description": "",
+      "channel": "PickentCode",
+      "url": "https://www.youtube.com/watch?v=PBpG40nH68s",
+      "tags": [
+        "cyberdeck",
+        "raspberry pi",
+        "diy"
+      ],
+      "summary": [
+        "Builds a custom foldable computer with built-in breadboards.",
+        "Designed for portable electronics testing and retro aesthetics."
+      ]
+    },
+    {
+      "id": "kR_C6HK3kCs",
+      "title": "VibeCoding ESP32 Displays for Home Assistant \u2014 No Code, Just Prompts",
+      "description": "",
+      "channel": "Vaclav Chaloupka",
+      "url": "https://www.youtube.com/watch?v=kR_C6HK3kCs",
+      "tags": [
+        "home assistant",
+        "esp32",
+        "no-code"
+      ],
+      "summary": [
+        "Uses AI prompts to design ESP32 display layouts.",
+        "Simplifies Home Assistant dashboard creation without manual coding."
+      ]
+    },
+    {
+      "id": "YpQWdrfzSzQ",
+      "title": "KittenTTS - The Nano TTS",
+      "description": "",
+      "channel": "Sam Witteveen",
+      "url": "https://www.youtube.com/watch?v=YpQWdrfzSzQ",
+      "tags": [
+        "tts",
+        "esp32",
+        "audio"
+      ],
+      "summary": [
+        "Introduces a lightweight text-to-speech engine for microcontrollers.",
+        "Enables clear voice output on low-power hardware."
+      ]
+    },
+    {
+      "id": "m8ZJMGhcokE",
+      "title": "The Future of ESP Device Management is HERE (And It's Browser-Based!)",
+      "description": "",
+      "channel": "ResinChem Tech",
+      "url": "https://www.youtube.com/watch?v=m8ZJMGhcokE",
+      "tags": [
+        "esp32",
+        "web tools",
+        "iot"
+      ],
+      "summary": [
+        "Reviews browser-based tools for flashing and managing devices.",
+        "Eliminates the need for complex local IDE installations."
+      ]
+    },
+    {
+      "id": "BlE0nNkenzE",
+      "title": "I Built Something Better Than Flipper | ESP32-DIV v2",
+      "description": "",
+      "channel": "CiferTech",
+      "url": "https://www.youtube.com/watch?v=BlE0nNkenzE",
+      "tags": [
+        "esp32",
+        "cybersecurity",
+        "hardware"
+      ],
+      "summary": [
+        "Showcases a custom multi-tool for wireless security testing.",
+        "Compares features to the popular Flipper Zero device."
+      ]
+    },
+    {
+      "id": "E4LxQvyeiWw",
+      "title": "Which ESP32 Pins Are Safe to Use (And Why)",
+      "description": "",
+      "channel": "Vman Builds",
+      "url": "https://www.youtube.com/watch?v=E4LxQvyeiWw",
+      "tags": [
+        "esp32",
+        "electronics",
+        "pinout"
+      ],
+      "summary": [
+        "Identifies which GPIO pins are safe for specific tasks.",
+        "Explains strapping pins and hardware constraints on ESP32."
+      ]
+    },
+    {
+      "id": "jobTzmZ2ToU",
+      "title": "I Turned a Raspberry Pi into the Ultimate AI Assistant",
+      "description": "",
+      "channel": "Naz Louis",
+      "url": "https://www.youtube.com/watch?v=jobTzmZ2ToU",
+      "tags": [
+        "raspberry pi",
+        "ai",
+        "automation"
+      ],
+      "summary": [
+        "Builds a high-end AI assistant using a Raspberry Pi.",
+        "Integrates advanced voice recognition and task automation."
+      ]
+    },
+    {
+      "id": "tuEg8GfBlBA",
+      "title": "Controlling Servo motors with ESP32 for robotics | Beginner tutorial",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=tuEg8GfBlBA",
+      "tags": [
+        "robotics",
+        "servos",
+        "esp32"
+      ],
+      "summary": [
+        "Tutorial on controlling servo motors for precise movement.",
+        "Covers PWM signals and wiring for beginner robotics."
+      ]
+    },
+    {
+      "id": "3jAw41LRBxU",
+      "title": "HOW TO SOLDER! (Beginner's Guide)",
+      "description": "",
+      "channel": "HackMakeMod",
+      "url": "https://www.youtube.com/watch?v=3jAw41LRBxU",
+      "tags": [
+        "soldering",
+        "electronics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Teaches essential soldering techniques for circuit building.",
+        "Covers tool selection, safety, and making clean joints."
+      ]
+    },
+    {
+      "id": "6WReFkfrUIk",
+      "title": "How to Use a Breadboard",
+      "description": "",
+      "channel": "Science Buddies",
+      "url": "https://www.youtube.com/watch?v=6WReFkfrUIk",
+      "tags": [
+        "breadboard",
+        "electronics",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Explains how breadboards work for rapid prototyping.",
+        "Demonstrates how to build circuits without permanent soldering."
+      ]
+    },
+    {
+      "id": "alLMkA2rNEQ",
+      "title": "Vibe Coding Tutorial: AI Writes, Compiles & Uploads Arduino Code",
+      "description": "",
+      "channel": "Octopart",
+      "url": "https://www.youtube.com/watch?v=alLMkA2rNEQ",
+      "tags": [
+        "arduino",
+        "ai coding"
+      ],
+      "summary": [
+        "AI writes and uploads code to Arduino boards.",
+        "Demonstrates hands-off vibe coding workflow."
+      ]
+    },
+    {
+      "id": "j-7pDFmdbc0",
+      "title": "The BASICS of Adding a Display to Your Arduino, ESP32, STM32, or other MCU Project",
+      "description": "",
+      "channel": "Zach of All Trades",
+      "url": "https://www.youtube.com/watch?v=j-7pDFmdbc0",
+      "tags": [
+        "displays",
+        "microcontrollers"
+      ],
+      "summary": [
+        "Fundamentals of adding screens to MCU projects.",
+        "Covers various display types and interfaces."
+      ]
+    },
+    {
+      "id": "AHHKsM9vH5o",
+      "title": "Connecting Colour LCD to ESP32 (SPI ST7735 driver), TFT, Display, NodeMCU 32",
+      "description": "",
+      "channel": "XTronical",
+      "url": "https://www.youtube.com/watch?v=AHHKsM9vH5o",
+      "tags": [
+        "esp32",
+        "lcd display"
+      ],
+      "summary": [
+        "Wiring ST7735 LCD to ESP32 via SPI.",
+        "Configuring drivers for NodeMCU 32 boards."
+      ]
+    },
+    {
+      "id": "w3VIxtLPuRE",
+      "title": "Tech Note 064 - ESP32 How to Connect SPI Devices and Get Them Working",
+      "description": "",
+      "channel": "G6EJD - David",
+      "url": "https://www.youtube.com/watch?v=w3VIxtLPuRE",
+      "tags": [
+        "esp32",
+        "spi protocol"
+      ],
+      "summary": [
+        "Technical guide for connecting SPI devices.",
+        "Troubleshooting common SPI communication issues."
+      ]
+    },
+    {
+      "id": "HoZhgNcJjNA",
+      "title": "Connecting and Configuring the ST7789 LCD SPI Display to the ESP32",
+      "description": "",
+      "channel": "Retro Tech & Electronics",
+      "url": "https://www.youtube.com/watch?v=HoZhgNcJjNA",
+      "tags": [
+        "esp32",
+        "st7789 display"
+      ],
+      "summary": [
+        "Connecting ST7789 displays to ESP32 chips.",
+        "Configuration steps for SPI communication."
+      ]
+    },
+    {
+      "id": "7FeBbqSW834",
+      "title": "How to Set Up ST7789 TFT LCD with ESP32-S3 | Fix Crashes & Use Adafruit & TFT_eSPI Libraries",
+      "description": "",
+      "channel": "Delali",
+      "url": "https://www.youtube.com/watch?v=7FeBbqSW834",
+      "tags": [
+        "esp32-s3",
+        "tft_espi"
+      ],
+      "summary": [
+        "Setup guide for ST7789 on ESP32-S3.",
+        "Fixing crashes using Adafruit and TFT_eSPI libraries."
+      ]
+    },
+    {
+      "id": "rrPdjSEXhYM",
+      "title": "Create complex interfaces for your Pi Pico, STM/ESP32 and arduino projects",
+      "description": "",
+      "channel": "Signal Drift",
+      "url": "https://www.youtube.com/watch?v=rrPdjSEXhYM",
+      "tags": [
+        "ui design",
+        "embedded systems"
+      ],
+      "summary": [
+        "Creating complex interfaces for microcontrollers.",
+        "Tools for Arduino and ESP32 display design."
+      ]
+    },
+    {
+      "id": "VI2qELQ7VRc",
+      "title": "5 ESP32 Hardware Tips Every Maker Should Know",
+      "description": "",
+      "channel": "Mario's Ideas",
+      "url": "https://www.youtube.com/watch?v=VI2qELQ7VRc",
+      "tags": [
+        "esp32",
+        "hardware tips"
+      ],
+      "summary": [
+        "Essential hardware advice for ESP32 makers.",
+        "Optimization techniques for board functionality."
+      ]
+    },
+    {
+      "id": "ICXznCN3NOI",
+      "title": "Don't Pick the Wrong OLED! I\u00b2C and SPI Explained for Arduino & ESP32",
+      "description": "",
+      "channel": "Mario's Ideas",
+      "url": "https://www.youtube.com/watch?v=ICXznCN3NOI",
+      "tags": [
+        "oled",
+        "i2c vs spi"
+      ],
+      "summary": [
+        "Differences between I2C and SPI OLED displays.",
+        "Choosing the right screen for your project."
+      ]
+    },
+    {
+      "id": "0rlpwVNyBO8",
+      "title": "Every Hardware Protocol Explained in 6 Minutes",
+      "description": "",
+      "channel": "Techs Explained",
+      "url": "https://www.youtube.com/watch?v=0rlpwVNyBO8",
+      "tags": [
+        "communication protocols",
+        "electronics"
+      ],
+      "summary": [
+        "Overview of common hardware communication protocols.",
+        "Explaining I2C, SPI, and UART briefly."
+      ]
+    },
+    {
+      "id": "6lLlKY5U77w",
+      "title": "TFT_eSPI Configuration tutorial",
+      "description": "",
+      "channel": "The Last Outpost Workshop",
+      "url": "https://www.youtube.com/watch?v=6lLlKY5U77w",
+      "tags": [
+        "tft_espi",
+        "display library"
+      ],
+      "summary": [
+        "Configuration tutorial for the TFT_eSPI library.",
+        "Setting up custom display drivers."
+      ]
+    },
+    {
+      "id": "OcMvTfUfNXo",
+      "title": "You can copy and print perfect spare parts! (Legally) (Probably)",
+      "description": "",
+      "channel": "Zack Freedman",
+      "url": "https://www.youtube.com/watch?v=OcMvTfUfNXo",
+      "tags": [
+        "3d printing",
+        "reverse engineering"
+      ],
+      "summary": [
+        "Techniques for copying and printing spare parts.",
+        "Legal and practical guide to replication."
+      ]
+    },
+    {
+      "id": "H39b4wNj3UA",
+      "title": "Local Speech-to-Text That Never Phones Home",
+      "description": "",
+      "channel": "KTG Analysis",
+      "url": "https://www.youtube.com/watch?v=H39b4wNj3UA",
+      "tags": [
+        "speech to text",
+        "privacy"
+      ],
+      "summary": [
+        "Implementing local, offline speech recognition.",
+        "Secure voice processing without cloud reliance."
+      ]
+    },
+    {
+      "id": "8zwhOCB9mQE",
+      "title": "Interfacing 16x2 LCD module with ESP 32- Quick Tutorial.",
+      "description": "",
+      "channel": "Circuit Schools",
+      "url": "https://www.youtube.com/watch?v=8zwhOCB9mQE",
+      "tags": [
+        "esp32",
+        "16x2 lcd"
+      ],
+      "summary": [
+        "Interfacing standard 16x2 modules with ESP32.",
+        "Quick wiring and software setup guide."
+      ]
+    },
+    {
+      "id": "W6mixXsn-Vc",
+      "title": "Breadboard tutorial: How to use a breadboard (for beginners)",
+      "description": "",
+      "channel": "LeftyMaker",
+      "url": "https://www.youtube.com/watch?v=W6mixXsn-Vc",
+      "tags": [
+        "breadboard",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Fundamental guide on how breadboards work.",
+        "Basic prototyping skills for electronics beginners."
+      ]
+    },
+    {
+      "id": "5vRAACeebjI",
+      "title": "Fun with Transistors",
+      "description": "",
+      "channel": "HackMakeMod",
+      "url": "https://www.youtube.com/watch?v=5vRAACeebjI",
+      "tags": [
+        "transistors",
+        "electronics"
+      ],
+      "summary": [
+        "Educational demonstration of transistor functionality.",
+        "Practical examples of transistor-based circuits."
+      ]
+    },
+    {
+      "id": "j2qh5T-QX9Y",
+      "title": "Building a series parallel circuit",
+      "description": "",
+      "channel": "DKTrnavsky",
+      "url": "https://www.youtube.com/watch?v=j2qh5T-QX9Y",
+      "tags": [
+        "circuits",
+        "electronics"
+      ],
+      "summary": [
+        "Building series and parallel circuit configurations.",
+        "Visualizing current flow and voltage drops."
+      ]
+    },
+    {
+      "id": "y5Y61u_71r8",
+      "title": "Why Is The GPIO Matrix The ESP32\u2019s Killer Feature?",
+      "description": "",
+      "channel": "Vman Builds",
+      "url": "https://www.youtube.com/watch?v=y5Y61u_71r8",
+      "tags": [
+        "esp32",
+        "gpio matrix"
+      ],
+      "summary": [
+        "Explaining the flexibility of ESP32 GPIO pins.",
+        "How the GPIO matrix simplifies PCB design."
+      ]
+    },
+    {
+      "id": "MUX6rcU28h8",
+      "title": "Building circuits on breadboard for beginners",
+      "description": "",
+      "channel": "Mahmood Hameed",
+      "url": "https://www.youtube.com/watch?v=MUX6rcU28h8",
+      "tags": [
+        "breadboard",
+        "beginner tutorial"
+      ],
+      "summary": [
+        "Step-by-step breadboard circuit building.",
+        "Common mistakes for beginners to avoid."
+      ]
+    },
+    {
+      "id": "WIUowv3Huhk",
+      "title": "This DIY AI Desk Buddy Must Be in Every Home",
+      "description": "",
+      "channel": "Pro maker 101",
+      "url": "https://www.youtube.com/watch?v=WIUowv3Huhk",
+      "tags": [
+        "ai",
+        "robotics"
+      ],
+      "summary": [
+        "Constructing an AI-powered desktop companion.",
+        "Integrating smart features into a DIY project."
+      ]
+    },
+    {
+      "id": "ANZ0nvk80G0",
+      "title": "How to Use a 128x64 OLED Display with ESP32 NodeMCU Over Hardware I2C | Beginner-Friendly Tutorial",
+      "description": "",
+      "channel": "TECHLOGICS",
+      "url": "https://www.youtube.com/watch?v=ANZ0nvk80G0",
+      "tags": [
+        "esp32",
+        "oled"
+      ],
+      "summary": [
+        "Connecting 128x64 OLED via hardware I2C.",
+        "Beginner-friendly NodeMCU display tutorial."
+      ]
+    },
+    {
+      "id": "TZUo0pB7qd0",
+      "title": "MicroPythonOS -  Android-like OS for ESP32",
+      "description": "",
+      "channel": "DroneBot Workshop",
+      "url": "https://www.youtube.com/watch?v=TZUo0pB7qd0",
+      "tags": [
+        "micropython",
+        "esp32"
+      ],
+      "summary": [
+        "Introducing an Android-like OS for ESP32.",
+        "Running multitasking environments on microcontrollers."
+      ]
+    },
+    {
+      "id": "UxkOosaNohU",
+      "title": "Revolutionize Your ESP32 Projects with Live GPIO Pin Monitoring!",
+      "description": "",
+      "channel": "The Last Outpost Workshop",
+      "url": "https://www.youtube.com/watch?v=UxkOosaNohU",
+      "tags": [
+        "esp32",
+        "debugging"
+      ],
+      "summary": [
+        "Real-time monitoring of GPIO pin states.",
+        "Enhancing project debugging with live feedback."
+      ]
+    },
+    {
+      "id": "PMwH1sBMu3I",
+      "title": "How to make an AI Chatbot with face on any ESP32S3",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=PMwH1sBMu3I",
+      "tags": [
+        "esp32-s3",
+        "ai chatbot"
+      ],
+      "summary": [
+        "Creating an AI chatbot with visual faces.",
+        "Deploying interactive characters on ESP32-S3 hardware."
+      ]
+    },
+    {
+      "id": "Yt8mc5v7MYA",
+      "title": "Fully automating Arduino development - Giving Claude Code access to hardware \ud83e\udd16\u26a1\ufe0f\ud83d\udcbb",
+      "description": "",
+      "channel": "Adafruit Industries",
+      "url": "https://www.youtube.com/watch?v=Yt8mc5v7MYA",
+      "tags": [
+        "arduino",
+        "automation"
+      ],
+      "summary": [
+        "Automating development with Claude Code.",
+        "Granting AI agents direct access to hardware."
+      ]
+    },
+    {
+      "id": "QOoszpg0BsM",
+      "title": "Make your own Dasai Mochi (with ESP32 and OLED display)",
+      "description": "",
+      "channel": "upir",
+      "url": "https://www.youtube.com/watch?v=QOoszpg0BsM",
+      "tags": [
+        "esp32",
+        "electronics",
+        "diy project"
+      ],
+      "summary": [
+        "Build a custom animated Mochi companion using an ESP32.",
+        "Features an OLED display for expressive digital animations."
+      ]
+    },
+    {
+      "id": "bFq05qXqin0",
+      "title": "I Built a Free Video Tool for ESP32 Makers",
+      "description": "",
+      "channel": "The Last Outpost Workshop",
+      "url": "https://www.youtube.com/watch?v=bFq05qXqin0",
+      "tags": [
+        "esp32",
+        "software tool",
+        "video editing"
+      ],
+      "summary": [
+        "New free tool designed to simplify video processing for ESP32.",
+        "Helps makers convert and display video content on microcontrollers."
+      ]
+    },
+    {
+      "id": "qM6bYuTQb-I",
+      "title": "ESP32 Cyberdeck - Multiple Apps on One Device",
+      "description": "",
+      "channel": "Hacktuber",
+      "url": "https://www.youtube.com/watch?v=qM6bYuTQb-I",
+      "tags": [
+        "cyberdeck",
+        "esp32",
+        "portable tech"
+      ],
+      "summary": [
+        "Portable computing device capable of running multiple onboard applications.",
+        "Demonstrates custom UI and multitasking capabilities on ESP32."
+      ]
+    },
+    {
+      "id": "-fmGlF_zCFE",
+      "title": "Adding AI to a Basic Arduino Car | Acebott car kit",
+      "description": "",
+      "channel": "Tech Talkies",
+      "url": "https://www.youtube.com/watch?v=-fmGlF_zCFE",
+      "tags": [
+        "arduino",
+        "artificial intelligence",
+        "robotics"
+      ],
+      "summary": [
+        "Integrates AI features into a basic Acebott robotic car kit.",
+        "Enhances standard robot movement with intelligent decision making."
+      ]
+    },
+    {
+      "id": "3aeRQVFXiF4",
+      "title": "ESP32 Online Tools - No IDE Required!",
+      "description": "",
+      "channel": "DroneBot Workshop",
+      "url": "https://www.youtube.com/watch?v=3aeRQVFXiF4",
+      "tags": [
+        "esp32",
+        "web tools",
+        "programming"
+      ],
+      "summary": [
+        "Web-based tools for flashing and configuring ESP32 boards online.",
+        "Eliminates the need for local IDE installations and setup."
+      ]
+    },
+    {
+      "id": "jEvsJSZWH9U",
+      "title": "Make your own Dasai Mochi using ESP32 circuit with rechargeable battery - No need to write code.",
+      "description": "",
+      "channel": "\u1ed0c Vui V\u1ebb",
+      "url": "https://www.youtube.com/watch?v=jEvsJSZWH9U",
+      "tags": [
+        "esp32",
+        "no-code",
+        "diy project"
+      ],
+      "summary": [
+        "Battery-powered Mochi build that requires no manual coding.",
+        "Focuses on easy assembly and hardware integration for beginners."
+      ]
+    },
+    {
+      "id": "mHOxWiTwU1A",
+      "title": "Build Your Own AI Voice Assistant Without Coding \ud83d\ude33 | ESP32-S3 Project #ai #chatgpt #voiceassistants ",
+      "description": "",
+      "channel": "TechWithPi\n",
+      "url": "https://www.youtube.com/watch?v=mHOxWiTwU1A",
+      "tags": [
+        "esp32-s3",
+        "ai assistant",
+        "chatgpt"
+      ],
+      "summary": [
+        "Construct a voice-activated AI assistant using an ESP32-S3.",
+        "Uses no-code platforms to integrate ChatGPT voice functionality."
+      ]
+    },
+    {
+      "id": "vVTB3SbvEvM",
+      "title": "Ultra-gravity (New Antigravity Setup): THIS IS FREAKING CRAZY FREE AI CODER!",
+      "description": "",
+      "channel": "AICodeKing",
+      "url": "https://www.youtube.com/watch?v=vVTB3SbvEvM",
+      "tags": [
+        "ai coding",
+        "software",
+        "physics"
+      ],
+      "summary": [
+        "Showcases an advanced AI tool for writing complex code.",
+        "Demonstrates the tool by simulating an antigravity physics setup."
+      ]
+    },
+    {
+      "id": "jkdvMEvG8T8",
+      "title": "Give your robot a Voice with Gemini Live",
+      "description": "",
+      "channel": "Google for Developers",
+      "url": "https://www.youtube.com/watch?v=jkdvMEvG8T8",
+      "tags": [
+        "robotics",
+        "gemini ai",
+        "voice control"
+      ],
+      "summary": [
+        "Integrates Google's Gemini Live for natural robot voice interaction.",
+        "Enables conversational AI capabilities in DIY robotic projects."
+      ]
+    }
+  ]
+}
